@@ -48,7 +48,7 @@ public class BookShop {
 					final_price += book_price;
 					break;
 				case 2:
-					final_price += 2*book_price;
+					final_price += 2*book_price*0.93;
 					break;
 				case 3:
 					final_price += 3*book_price*0.86;
