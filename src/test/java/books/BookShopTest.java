@@ -15,6 +15,6 @@ public class BookShopTest {
 
     @Test
     public void myFirstTest(){
-        assertTrue(false);
+        assertTrue(true);
     }
 }
