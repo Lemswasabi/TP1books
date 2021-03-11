@@ -14,7 +14,8 @@ public class BookShopTest {
      */
 
     @Test
-    public void myFirstTest(){
+    public void assert_Cost_With_True_Cost(){
+		// assertEquals(
         assertTrue(true);
     }
 }
