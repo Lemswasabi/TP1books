@@ -64,13 +64,4 @@ public class BookShop {
 
         return final_price;
     }
-
-	// public static void main(String[] args) {
-	//     int[] books = new int[]{0, 2, 2, 2, 1};
-	//     BookShop bs = new BookShop("bs");
-	//     System.out.println(bs.cost(books));
-	//     List<Integer> zero = Arrays.asList(0, 0, 0, 0, 0);
-	//     System.out.println(!(Arrays.asList(books).containsAll(zero)));
-	//     System.out.println(bs.sum_of_array(books));
-	// }
 }
